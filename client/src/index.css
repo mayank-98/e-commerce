@@ -57,3 +57,6 @@
 
   /* *************** categories ********* */
   @import url("./components/mainpages/categories/categories.css");
+
+  /* ************** create product ******* */
+  @import url("./components/mainpages/createProduct/createProduct.css");
