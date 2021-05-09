@@ -1,2 +1,2 @@
 # MERN ECOMMERCE
-# LIVE DEMO
+# [LIVE DEMO][https://e-commerce-myshop.herokuapp.com/]
